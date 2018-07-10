@@ -1,0 +1,32 @@
+{
+  "SPEECH_API_USER" : "1d8b0cb5-75d5-4fe0-bd3b-7a947b6ed4f9",
+  "SPEECH_API_PASS" : "vTgSEGImYacA",
+  "SPEECH_API_URL" : "https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=en-US_AllisonVoice",
+
+  "FACE_RECOG_API_KEY" : "2816c2236294f84a7f9f24efe70b0025b7281ded",
+  "FACE_RECOG_URL" : "https://gateway-a.watsonplatform.net/visual-recognition/api/v3/detect_faces",
+
+  "WEATHER_URL" : "http://api.openweathermap.org/data/2.5/forecast?id=3060972&appid=66090db45ac35ad22d70aca7e047a6cc&cnt=2&units=metric",
+
+  "BUTTON_PIN" : 3,
+  "LONG_PRESS_DELAY" : 850,
+  "BTN_REFRESH_DELAY" : 0.05,
+
+  "ACTIONS_DATA" : "data/actions.data",
+  "RULES_DATA" : "data/rules.data",
+  "BASE_PATH" : "/home/pi/mira/",
+  "SOUNDS_CACHE_PATH" : "/home/pi/mira/sound/cache/",
+  "SOUNDS_BUILDIN_PATH" : "/home/pi/mira/sound/",
+  "BACKUP_PATH" : "/home/pi/Pictures/",
+  "PATHS" : "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+  
+  "TMP_IMG_PATH" : "/tmp/tmp.jpg",
+  "IMG_W" : 800,
+  "IMG_H" : 600,
+  "IMG_Q" : 80,
+  "IMG_ROT" : 180,
+
+  "SAY_INFO" : 1,
+
+  "DEBUG" : 1
+}

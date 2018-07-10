@@ -1,0 +1,94 @@
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'female' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+sex == 'male' and faces > 0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "rain" and faces > 0
+weather == "sunny" and faces > 0
+weather == "sunny" and faces > 0
+weather == "sunny" and faces > 0
+weather == "sunny" and faces > 0
+weather == "sunny" and faces > 0
+weather == "snow" and faces > 0
+weather == "snow" and faces > 0
+weather == "other" and faces > 0
+weather == "other" and faces > 0
+time > 11 and time < 13 and faces > 0
+time > 6 and time < 9 and faces > 0
+time > 11 and time < 12 and faces > 0
+time > 6 and time < 9 and faces > 0
+time < 17 and time > 21 and faces > 0
+1
+1
+time > 17 and time < 21 and faces > 0
+time > 18 and time < 4 and faces > 0
+1
+time == 17 and faces > 0
+age > 60
+age > 70
+age > 70
+age > 60
+faces > 5
+faces > 5
+faces > 5
+faces > 5
+faces > 5
+faces > 5
+faces == 0 and toodark == 1
+faces == 0 and toodark == 1
+faces == 0 and toodark == 1
+faces == 3
+faces > 4
+1
+faces == 4
+faces == 2
+sex == "female" and age >30
+sex == "male" and age > 50
+sex == "male" and age > 20 and age < 50
+sex == "male" and age < 25
+faces == 2
+1
+sex == "male"
+sex == "female"
+weather == "sunny"

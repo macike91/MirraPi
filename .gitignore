@@ -1,0 +1,14 @@
+# OSX related
+[Tt]humbs.db
+*.DS_Store
+
+# Python related
+__pycache__/
+*$py.class
+*.py[cod]
+
+# mira related
+backup/
+unused/
+tmp/
+sound/cache/*.wav
